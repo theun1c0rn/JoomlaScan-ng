@@ -112,7 +112,7 @@ swversion = "1.2"
 
 # Function to display the banner using rich
 def banner():
-    banner_text = Text("""
+    banner_text = Text(r"""
    __                        _         __                                   
    \ \  ___   ___  _ __ ___ | | __ _  / _\ ___ __ _ _ __        _ __   __ _ 
     \ \/ _ \ / _ \| '_ ` _ \| |/ _` | \ \ / __/ _` | '_ \ _____| '_ \ / _` |
